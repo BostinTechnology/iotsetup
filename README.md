@@ -1,0 +1,2 @@
+# iotsetup
+Setup Cogniot IoT
