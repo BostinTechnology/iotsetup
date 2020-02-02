@@ -1,5 +1,9 @@
 #!/bin/sh
 
 
-clear;
 
+clear
+ 
+echo "Hello"
+echo ""
+ 
